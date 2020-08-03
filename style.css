@@ -1,0 +1,31 @@
+
+h3{text-align: center;}
+
+	.card-background{color: black;
+		border: 5px solid black;
+    padding: 0.5em;
+    width: 300px;
+    height: 750px;
+    margin: 0,10px;
+    background-color: rgb(50%,50%,50%);}
+
+    .card-photo{
+  width: 300px;
+  display: block;
+  margin: auto;
+    }
+
+.Information{
+	border:5px solid black;
+	 padding: 0em;
+	width: 273px;
+	height: 100px;
+	margin: 0.10px;}
+
+.em{ font-style: italic; }
+
+li{list-style-type:none }
+
+.label-bold{
+font-weight: bold;
+ }
